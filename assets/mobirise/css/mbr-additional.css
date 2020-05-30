@@ -1123,6 +1123,31 @@ section.lazy-placeholder:after {
 .cid-s079AcCCWB .mbr-section-btn {
   text-align: right;
 }
+.cid-s0qGjBVmqO {
+  background-image: url("../../../assets/images/p001-1300x700.jpg");
+}
+.cid-s0qGjBVmqO .form-control,
+.cid-s0qGjBVmqO .form-control:focus {
+  background: #ffffff;
+  border: 1px solid #ffffff;
+}
+.cid-s0qGjBVmqO .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-s0qGjBVmqO textarea.form-control {
+  min-height: 188px;
+}
+.cid-s0qGjBVmqO .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-s0qGjBVmqO .content-container {
+    padding-right: 5rem;
+  }
+}
 .cid-s07yLzh6pY {
   padding-top: 30px;
   padding-bottom: 30px;
