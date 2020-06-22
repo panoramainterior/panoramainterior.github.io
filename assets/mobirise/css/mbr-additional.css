@@ -2319,7 +2319,7 @@ section.lazy-placeholder:after {
 }
 .cid-s080lniETz {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-s080lniETz p {
@@ -2365,6 +2365,56 @@ section.lazy-placeholder:after {
   position: relative;
 }
 .cid-s080lniETz .card {
+  padding-bottom: 2rem;
+}
+.cid-s2EtFnQ2aX {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s2EtFnQ2aX p {
+  margin-bottom: 0;
+}
+.cid-s2EtFnQ2aX .card-box {
+  z-index: 1;
+  position: relative;
+  background-color: rgba(127, 25, 51, 0.8);
+  height: 100%;
+  width: 100%;
+  pointer-events: none;
+}
+.cid-s2EtFnQ2aX .card-box .card-title {
+  pointer-events: all;
+}
+.cid-s2EtFnQ2aX .card-box .mbr-text {
+  pointer-events: all;
+}
+.cid-s2EtFnQ2aX .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.cid-s2EtFnQ2aX .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-s2EtFnQ2aX .card-img img {
+  z-index: -1;
+  height: 100%;
+  min-width: 100%;
+  width: auto;
+}
+.cid-s2EtFnQ2aX .card-wrap {
+  position: relative;
+}
+.cid-s2EtFnQ2aX .card {
   padding-bottom: 2rem;
 }
 .cid-s07U6pQeHp {
