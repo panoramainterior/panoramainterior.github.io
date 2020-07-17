@@ -8718,7 +8718,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 7,
+        "meta_image": "@PROJECT_PATH@/assets/images/veterinario-1-450x300.jpeg"
       },
       "components": [
         {
